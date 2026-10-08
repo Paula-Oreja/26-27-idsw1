@@ -10,3 +10,4 @@ state "Aura elevada" as Elevada
 Neutra --> Elevada : Valoracion positiva
 
 @enduml
+
